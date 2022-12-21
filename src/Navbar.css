@@ -1,0 +1,10 @@
+.nav{
+   background-color: blue;
+   color: white;
+}
+input,button{
+    margin: 10px;
+}
+.heading{
+    margin-top: 60px;
+}
